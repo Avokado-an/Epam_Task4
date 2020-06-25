@@ -7,7 +7,7 @@ public class CustomArray {
 
     public CustomArray() {
         arr = new int[DEFAULT_SIZE];
-    } //check for null everything, validation for full space StringToIntArr
+    }
 
     public CustomArray(int size) {
         if (size <= 0) {
