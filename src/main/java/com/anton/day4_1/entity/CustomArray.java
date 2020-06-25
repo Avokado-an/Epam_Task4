@@ -19,7 +19,7 @@ public class CustomArray {
 
     public CustomArray(int[] arr) {
         if (arr == null) {
-            arr = new int[DEFAULT_SIZE];
+            this.arr = new int[DEFAULT_SIZE];
         } else {
             this.arr = arr;
         }
