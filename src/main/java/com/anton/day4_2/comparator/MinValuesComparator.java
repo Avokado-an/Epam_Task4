@@ -10,8 +10,8 @@ public class MinValuesComparator implements Comparator<int[]> {
 
     private int findMin(int[] arr) {
         int min = arr[0];
-        for(int element: arr) {
-            if(min > element) {
+        for (int element : arr) {
+            if (min > element) {
                 min = element;
             }
         }

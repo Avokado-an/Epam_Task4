@@ -7,7 +7,7 @@ public class NumberParser {
     private NumberValidator validator = new NumberValidator();
 
     public int[] parseIntArr(String numbers) throws ProgramException {
-        if(numbers == null) {
+        if (numbers == null) {
             throw new ProgramException();
         }
         if (!validator.validateStringToIntArr(numbers)) {
@@ -23,7 +23,7 @@ public class NumberParser {
     }
 
     public int parsePositiveNumber(String number) throws ProgramException {
-        if(number == null) {
+        if (number == null) {
             throw new ProgramException();
         }
         if (!validator.validatePositiveNumber(number)) {

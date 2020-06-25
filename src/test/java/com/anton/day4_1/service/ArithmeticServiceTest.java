@@ -52,7 +52,7 @@ public class ArithmeticServiceTest {
 
     @DataProvider(name = "invalidThreeDigitNumber")
     public Object[][] createInvalidThreeDigitNumber() {
-        return new Object[][] {
+        return new Object[][]{
                 {133}, {12}, {12345}
         };
     }

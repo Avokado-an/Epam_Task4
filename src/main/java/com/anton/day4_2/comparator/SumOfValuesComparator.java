@@ -10,7 +10,7 @@ public class SumOfValuesComparator implements Comparator<int[]> {
 
     private int calculateSum(int[] arr) {
         int sum = 0;
-        for(int element: arr) {
+        for (int element : arr) {
             sum += element;
         }
         return sum;

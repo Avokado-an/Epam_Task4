@@ -1,8 +1,8 @@
 package com.anton.day4_1.creator;
 
+import com.anton.day4_1.consoleReader.ConsoleReader;
 import com.anton.day4_1.entity.CustomArray;
 import com.anton.day4_1.exception.ProgramException;
-import com.anton.day4_1.consoleReader.ConsoleReader;
 import com.anton.day4_1.parser.NumberParser;
 import com.anton.day4_1.service.FileReaderService;
 
@@ -11,10 +11,8 @@ import java.security.SecureRandom;
 import java.util.Random;
 
 public class ArrayCreator {
-    private static String DEFAULT_FILE = "defaultFile.txt";
-
     public CustomArray createRandomArray(int size) throws ProgramException {
-        if(size < 1) {
+        if (size < 1) {
             throw new ProgramException();
         }
         int[] arr;

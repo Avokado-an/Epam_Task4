@@ -2,49 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="544a1ead-4355-456a-8779-caca71c988b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/creator/ArrayCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/entity/CustomArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/exception/ProgramException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/inputHandler/InputHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/parser/NumberParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/service/ArraySortService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/service/FileReaderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/validator/NumberValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_2/comparator/MaxValuesComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_2/comparator/MinValuesComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_2/comparator/SumOfValuesComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_2/service/SortingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/invalidDataFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/creator/ArrayCreatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/parser/NumberParserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/service/ArithmeticServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/service/ArraySearchServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/service/ArraySortServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/validator/NumberValidatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_2/service/SortingServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b422d78787b44806c31d295422172fa394762a4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c98a092e8fa91e8ef4fefb6724264b05d526f15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/6715eb11b05b2a88fee42f1f1b3263cd8fb7b973" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78030631caf5067a7fe8287c238cf5493414333b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/8684ad903f85e99576adbee811faf2dd3958955d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9cdce76f45348b05d7689cd10f043f527bb0e720" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2adb2e5d3d71022c5d7135d13525ce2bcd69513" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f32902b2fb73e3356240e39c31eb3fed79bf82ac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EPAM_DAY4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EPAM_DAY4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task1/entity/CustomArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task1/inputHandler/InputHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task1/service/ArithmeticService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/service/ArithmeticService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task1/service/ArrayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/service/ArraySearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task1/validator/NumberValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task2/entity/JaggedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task2/service/ArrayArithmeticService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task2/service/BubbleSortService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/creator/ArrayCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/creator/ArrayCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/parser/NumberParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/parser/NumberParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/service/FileReaderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/service/FileReaderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4_2/comparator/MinValuesComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_2/comparator/MinValuesComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4_2/comparator/SumOfValuesComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_2/comparator/SumOfValuesComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/creator/ArrayCreatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/creator/ArrayCreatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/parser/NumberParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/parser/NumberParserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/service/ArithmeticServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/service/ArithmeticServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/service/ArraySortServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/service/ArraySortServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/validator/NumberValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/validator/NumberValidatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/anton/day4_2/service/SortingServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_2/service/SortingServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +166,7 @@
       <workItem from="1592811892075" duration="10908000" />
       <workItem from="1592922486396" duration="7930000" />
       <workItem from="1593028721947" duration="7688000" />
-      <workItem from="1593070685542" duration="14845000" />
+      <workItem from="1593070685542" duration="15192000" />
     </task>
     <servers />
   </component>

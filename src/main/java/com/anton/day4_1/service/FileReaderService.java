@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class FileReaderService {
     public String readData(String path) throws ProgramException {
-        if(path == null) {
+        if (path == null) {
             throw new ProgramException();
         }
         StringBuilder resultingArr;
