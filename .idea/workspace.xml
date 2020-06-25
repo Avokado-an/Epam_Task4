@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="544a1ead-4355-456a-8779-caca71c988b1" name="Default Changelist" comment="" />
+    <list default="true" id="544a1ead-4355-456a-8779-caca71c988b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/creator/ArrayCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/entity/CustomArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/exception/ProgramException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/inputHandler/InputHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/parser/NumberParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/service/ArraySortService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/service/FileReaderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/validator/NumberValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_2/comparator/MaxValuesComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_2/comparator/MinValuesComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_2/comparator/SumOfValuesComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_2/service/SortingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/invalidDataFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/creator/ArrayCreatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/parser/NumberParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/service/ArithmeticServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/service/ArraySearchServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/service/ArraySortServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_1/validator/NumberValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/anton/day4_2/service/SortingServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b422d78787b44806c31d295422172fa394762a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c98a092e8fa91e8ef4fefb6724264b05d526f15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/6715eb11b05b2a88fee42f1f1b3263cd8fb7b973" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78030631caf5067a7fe8287c238cf5493414333b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/8684ad903f85e99576adbee811faf2dd3958955d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9cdce76f45348b05d7689cd10f043f527bb0e720" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2adb2e5d3d71022c5d7135d13525ce2bcd69513" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f32902b2fb73e3356240e39c31eb3fed79bf82ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EPAM_DAY4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EPAM_DAY4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task1/entity/CustomArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task1/inputHandler/InputHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task1/service/ArithmeticService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/service/ArithmeticService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task1/service/ArrayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anton/day4_1/service/ArraySearchService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task1/validator/NumberValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task2/entity/JaggedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task2/service/ArrayArithmeticService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anton/day4/task2/service/BubbleSortService.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +54,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -22,6 +70,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1da4uRhzRc6mpLnHwVWlQ31IncN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,9 +78,110 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../kp/laba3" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="TestNG.SortingServiceTest">
+    <configuration name="ArraySortServiceTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EPAM_DAY4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anton.day4_1.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.anton.day4_1.service" />
+      <option name="MAIN_CLASS_NAME" value="com.anton.day4_1.service.ArraySortServiceTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySortServiceTest.shellSortValidTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EPAM_DAY4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anton.day4_1.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.anton.day4_1.service" />
+      <option name="MAIN_CLASS_NAME" value="com.anton.day4_1.service.ArraySortServiceTest" />
+      <option name="METHOD_NAME" value="shellSortValidTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingServiceTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EPAM_DAY4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anton.day4_2.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.anton.day4_2.service" />
+      <option name="MAIN_CLASS_NAME" value="com.anton.day4_2.service.SortingServiceTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingServiceTest.bubbleSortMaxInvalidTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EPAM_DAY4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anton.day4_2.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.anton.day4_2.service" />
+      <option name="MAIN_CLASS_NAME" value="com.anton.day4_2.service.SortingServiceTest" />
+      <option name="METHOD_NAME" value="bubbleSortMaxInvalidTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingServiceTest.bubbleSortMaxValidTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EPAM_DAY4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anton.day4_2.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.anton.day4_2.service" />
+      <option name="MAIN_CLASS_NAME" value="com.anton.day4_2.service.SortingServiceTest" />
+      <option name="METHOD_NAME" value="bubbleSortMaxValidTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SortingServiceTest" />
+        <item itemvalue="TestNG.SortingServiceTest.bubbleSortMaxInvalidTest" />
+        <item itemvalue="TestNG.SortingServiceTest.bubbleSortMaxValidTest" />
+        <item itemvalue="TestNG.ArraySortServiceTest" />
+        <item itemvalue="TestNG.ArraySortServiceTest.shellSortValidTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,7 +194,10 @@
       <option name="presentableId" value="Default" />
       <updated>1592650091650</updated>
       <workItem from="1592650094289" duration="3892000" />
-      <workItem from="1592811892075" duration="6423000" />
+      <workItem from="1592811892075" duration="10908000" />
+      <workItem from="1592922486396" duration="7930000" />
+      <workItem from="1593028721947" duration="7688000" />
+      <workItem from="1593070685542" duration="14845000" />
     </task>
     <servers />
   </component>
@@ -52,13 +205,69 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1592653836754">
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1593088175524">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592653836754" />
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593088175524" />
     <state x="400" y="102" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1592650104963">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="400" y="102" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1592650104963" />
+    <state x="380" y="339" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592928366582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="380" y="339" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1592928366582" />
+    <state x="490" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593089142618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1593089142618" />
+    <state x="508" y="260" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593081033103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="508" y="260" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1593081033103" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1593071167298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593071167298" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593091422821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593091422821" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1593091422820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593091422820" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1593091422820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593091422820" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1593091422821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593091422821" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593074170862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593074170862" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1593074170861">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593074170861" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1593074170861">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593074170861" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1593074170861">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593074170861" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1593070684629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593070684629" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593079447831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593079447831" />
   </component>
 </project>
