@@ -2,7 +2,7 @@ package com.anton.day4_1.creator;
 
 import com.anton.day4_1.entity.CustomArray;
 import com.anton.day4_1.exception.ProgramException;
-import com.anton.day4_1.inputHandler.InputHandler;
+import com.anton.day4_1.consoleReader.ConsoleReader;
 import com.anton.day4_1.parser.NumberParser;
 import com.anton.day4_1.service.FileReaderService;
 
@@ -37,7 +37,7 @@ public class ArrayCreator {
     }
 
     public CustomArray createConsoleArray() throws ProgramException {
-        InputHandler in = new InputHandler();
+        ConsoleReader in = new ConsoleReader();
         String numbers = in.inputString();
         return createCustomArray(numbers);
     }
