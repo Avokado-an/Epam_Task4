@@ -1,11 +1,11 @@
 package com.anton.day4_1.entity;
 
 public class CustomArray {
-    private static final int DEFAULT_SIZE = 10;
+    private static final int DEFAULT_SIZE = 10; //todo переделать под кидание исключений создание дефолтного массива
 
-    private int[] arr;
+    private int[] arr; //todo переделать проверки в сервисах не только под наловые, но и под пустые массивы
 
-    public CustomArray() {
+    public CustomArray() {//todo попробуй путь к файлам указывать различным кол-вом и направлением слешов
         arr = new int[DEFAULT_SIZE];
     }
 
@@ -55,7 +55,7 @@ public class CustomArray {
         return arr.length;
     }
 
-    public int getElement(int index) {
+    public int getElement(int index) {//todo add exception
         return arr[index];
     }
 

@@ -62,7 +62,7 @@ public class ArrayCreatorTest {
     @Test
     public void createFileArrayValidTest() {
         try {
-            String fileName = "src\\main\\resources\\defaultFile.txt";
+            String fileName = "data/defaultFile.txt";
             CustomArray expectedArr = creator.createFileArray(fileName);
             int[] temp = {1, 2, 3, 4, 5, 6, 7, 8, 9, 0};
             CustomArray actualArr = new CustomArray(temp);
@@ -75,7 +75,9 @@ public class ArrayCreatorTest {
     @DataProvider(name = "invalidFilePath")
     public Object[][] createFilePath() {
         return new Object[][]{
-                {"src\\main\\resources\\defaultFile1234.txt"}, {null}, {"src\\main\\resources\\invalidData.txt"}
+                {"data/nonExistingFile1234.txt"},
+                {null},
+                {"data/invalidData.txt"}
         };
     }
 

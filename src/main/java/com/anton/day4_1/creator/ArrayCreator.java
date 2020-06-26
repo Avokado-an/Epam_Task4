@@ -1,10 +1,10 @@
 package com.anton.day4_1.creator;
 
-import com.anton.day4_1.consoleReader.ConsoleReader;
+import com.anton.day4_1.reader.ConsoleReader;
 import com.anton.day4_1.entity.CustomArray;
 import com.anton.day4_1.exception.ProgramException;
 import com.anton.day4_1.parser.NumberParser;
-import com.anton.day4_1.service.FileReaderService;
+import com.anton.day4_1.reader.CustomFileReader;
 
 import java.security.NoSuchAlgorithmException;
 import java.security.SecureRandom;
@@ -41,7 +41,7 @@ public class ArrayCreator {
     }
 
     public CustomArray createFileArray(String fileName) throws ProgramException {
-        FileReaderService in = new FileReaderService();
+        CustomFileReader in = new CustomFileReader();
         String numbers = in.readData(fileName);
         return createCustomArray(numbers);
     }

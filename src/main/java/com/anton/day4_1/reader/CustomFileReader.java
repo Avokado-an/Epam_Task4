@@ -1,11 +1,11 @@
-package com.anton.day4_1.service;
+package com.anton.day4_1.reader;
 
 import com.anton.day4_1.exception.ProgramException;
 
 import java.io.FileInputStream;
 import java.io.IOException;
 
-public class FileReaderService {
+public class CustomFileReader {
     public String readData(String path) throws ProgramException {
         if (path == null) {
             throw new ProgramException();

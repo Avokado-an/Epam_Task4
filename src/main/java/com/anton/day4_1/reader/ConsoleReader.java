@@ -1,4 +1,4 @@
-package com.anton.day4_1.consoleReader;
+package com.anton.day4_1.reader;
 
 import java.util.Scanner;
 
